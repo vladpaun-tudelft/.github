@@ -15,7 +15,7 @@ Each repository corresponds to one course, typically including lecture exercises
 
 | Course Code | Course Name | Repository | Notes |
 |--------------|--------------|-------------|--------| 
-| **CSE1100** | Introduction to Programming | [cse1100-ip-2024](https://github.com/vladpaun-tudelft/cse1100-ip-2024 | Java programming labs, practice and trial exams. *Archived.* |
+| **CSE1100** | Introduction to Programming | [cse1100-ip-2024](https://github.com/vladpaun-tudelft/cse1100-ip-2024) | Java programming labs, practice and trial exams. *Archived.* |
 | **CSE1400** | Computer Organisation | [cse1400-co-2024](https://github.com/vladpaun-tudelft/cse1400-co-2024) | Assembly programming labs. *Archived.* |
 | **CSE1105** | Computer Science & Engineering Project | [cse1105-csep-2024](https://github.com/vladpaun-tudelft/cse1105-csep-2024) | Group Java project — distributed note-taking app “NetNote”. *Archived.* |
 | **CSE1500** | Web & Database Technologies | [cse1500-wdt-2024](https://github.com/vladpaun-tudelft/cse1500-wdt-2024) | Frontend & backend web labs (HTML/CSS, JS, Node.js, SQL). *Archived.* |
