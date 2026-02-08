@@ -23,9 +23,9 @@ Each repository corresponds to one course, typically including lecture exercises
 | **CSE2420** | Digital Systems | https://github.com/vladpaun-tudelft/cse2420-ds-2025 | VHDL / Verilog labs using Quartus and ModelSim. *Archived.* |
 | **CSE2510** | Machine Learning | https://github.com/vladpaun-tudelft/cse2510-ml-2025 | Python and Jupyter-based ML labs (NumPy, scikit-learn). *Archived.* |
 | **CSE2115** | Software Engineering Methods | https://github.com/vladpaun-tudelft/cse2115-sem-2025 | Software engineering assignments (DDD, LLD, architectures, DevOps). *Archived.* |
-| **CSE2310** | Algorithm Design | https://github.com/vladpaun-tudelft/cse2310-ad-2025 | Algorithm design assignments (proofs, pseudocode, implementations). |
-| **CSE2425** | Embedded Software | https://github.com/vladpaun-tudelft/cse2425-es-2025 | C programming labs (basic C, line-following robot firmware). |
-| **CSE2215** | Computer Graphics | https://github.com/vladpaun-tudelft/cse2215-cg-2025 | C++ programming exercises using OpenGL. |
+| **CSE2310** | Algorithm Design | https://github.com/vladpaun-tudelft/cse2310-ad-2025 | Algorithm design assignments (proofs, pseudocode, implementations). *Archived.* |
+| **CSE2425** | Embedded Software | https://github.com/vladpaun-tudelft/cse2425-es-2025 | C programming labs (basic C, line-following robot firmware). *Archived.* |
+| **CSE2215** | Computer Graphics | https://github.com/vladpaun-tudelft/cse2215-cg-2025 | C++ programming exercises using OpenGL. *Archived.* |
 
 ---
 
