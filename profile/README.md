@@ -26,6 +26,9 @@ Each repository corresponds to one course, typically including lecture exercises
 | **CSE2310** | Algorithm Design | https://github.com/vladpaun-tudelft/cse2310-ad-2025 | Algorithm design assignments (proofs, pseudocode, implementations). *Archived.* |
 | **CSE2425** | Embedded Software | https://github.com/vladpaun-tudelft/cse2425-es-2025 | C programming labs (basic C, line-following robot firmware). *Archived.* |
 | **CSE2215** | Computer Graphics | https://github.com/vladpaun-tudelft/cse2215-cg-2025 | C++ programming exercises using OpenGL. *Archived.* |
+| **CSE2315** | Automata, Computability and Complexity | https://github.com/vladpaun-tudelft/cse2315-acc-2025 | Latex lab assignments regarding various course content  |
+| **CSE2430** | Operating Systems | https://github.com/vladpaun-tudelft/cse2430-os-2025 | C programming labs (Processes,muktithreading,concurrency.memory,security,file systmes) |
+| **CSE2120** | Comcepts of Programming Languages | https://github.com/vladpaun-tudelft/cse2120-cpl-2025 | Scala interpreter of the custom Paret language |
 
 ---
 
